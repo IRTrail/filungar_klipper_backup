@@ -1,2 +1,26 @@
 MMB
-  409cc4368f02
+canbus_uuid: 409cc4368f02
+
+MMB Current
+canbus_uuid: 292f07823dc0
+
+Mellow MMU
+canbus_uuid: cc1477b80917
+
+EBB36
+canbus_uuid: 9e5f2c5905dc
+
+[mcu SHT36]
+canbus_uuid: 1eed2ed46e49
+
+[cartographer]
+canbus_uuid: fc53d522691c
+
+[mcu]
+canbus_uuid: 4a2f7172e7db # M8P V2
+
+[mcu]
+canbus_uuid: 63f96c42e5a5 # M8P V1
+
+[mcu]
+canbus_uuid: 9503c3d7d337 # LDO Leviathan
